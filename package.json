@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Front-End WebD with React",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karank11/React.git"
+  },
+  "author": "Karan Karhale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karank11/React/issues"
+  },
+  "homepage": "https://github.com/Karank11/React#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
